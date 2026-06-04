@@ -22,8 +22,7 @@ I enjoy working with data, building dashboards, exploring patterns through analy
 - NumPy
 - Matplotlib
 
-### AI & Machine Learning
-- Machine Learning
+### AI 
 - OCR
 - Natural Language Processing (NLP)
 - Data Mining
