@@ -22,11 +22,6 @@ I enjoy working with data, building dashboards, exploring patterns through analy
 - NumPy
 - Matplotlib
 
-### AI 
-- OCR
-- Natural Language Processing (NLP)
-- Data Mining
-
 ## Featured Projects
 
 ### 📊 Power BI Portfolio
@@ -37,16 +32,6 @@ Projects include:
 - HR Analytics Dashboard
 - Sales Dashboard
 
-### 🤖 Smart Tax AI
-An AI-powered GST invoice processing system built using OCR, NLP, and Machine Learning.
-
-Key Features:
-- Automated invoice data extraction
-- GST compliance verification
-- HSN code classification
-- Fraud detection and anomaly analysis
-- Real-time dashboard monitoring
-
 ## Certifications
 
 - IBM (Coursera) – Introduction to Data Engineering
@@ -55,13 +40,6 @@ Key Features:
 - NPTEL – Data Science for Engineers (IIT Madras)
 - Infosys Springboard – Big Data 101
 - Infosys Springboard – Data Science 101
-
-## Currently Learning
-
-- Advanced SQL
-- Machine Learning
-- Data Engineering Fundamentals
-- End-to-End Data Analytics Projects
 
 ## Connect With Me
 
