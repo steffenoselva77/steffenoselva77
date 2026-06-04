@@ -1,6 +1,6 @@
 # Hi, I'm Steffeno Selva 👋
 
-I'm an Artificial Intelligence and Data Science undergraduate at St. Joseph's Institute of Technology with a strong interest in Data Analytics, Business Intelligence, Machine Learning, and AI-driven solutions.
+I'm an Artificial Intelligence and Data Science graduate from St. Joseph's Institute of Technology with a strong interest in Data Analytics, Business Intelligence, Machine Learning, and AI-driven solutions.
 
 I enjoy working with data, building dashboards, exploring patterns through analysis, and developing intelligent applications that solve real-world problems.
 
